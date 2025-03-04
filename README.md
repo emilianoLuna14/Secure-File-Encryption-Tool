@@ -1,6 +1,6 @@
 # Secure File Encryption Tool
 
-A Python-based utility for securely encrypting and decrypting files using the AES algorithm via the `cryptography` library's Fernet module.
+A beginner-friendly Python tool for encrypting and decrypting files using AES via the `cryptography` library's Fernet module, designed to teach secure coding practices.
 
 ## Features
 - Encrypts files with a unique key using AES encryption.
